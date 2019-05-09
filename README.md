@@ -1,6 +1,7 @@
 # License Classifier
 
 [![Build status](https://travis-ci.org/google/licenseclassifier.svg?branch=master)](https://travis-ci.org/google/licenseclassifier)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fxinding33%2Flicenseclassifier.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fxinding33%2Flicenseclassifier?ref=badge_shield)
 
 ## Introduction
 
@@ -36,6 +37,9 @@ Adding a new license is straight-forward:
 
 4.  Create and run appropriate tests to verify that the license is indeed
     present.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fxinding33%2Flicenseclassifier.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fxinding33%2Flicenseclassifier?ref=badge_large)
 
 ## Tools
 
